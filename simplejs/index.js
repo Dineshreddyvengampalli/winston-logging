@@ -1,4 +1,4 @@
-const logger = require("./logger/logger")
+const logger = require('./logger/logger')
 
 function getRectArea(width, height) {
     if (isNaN(width) || isNaN(height)) {

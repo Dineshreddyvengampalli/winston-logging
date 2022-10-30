@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 2
+    },
+    "auditLog": "/home/dineshreddy/Desktop/winston-logger/logs/.95c308181267690cc881b716d0ef9f826beabce1-audit.json",
+    "files": [
+        {
+            "date": 1667144073947,
+            "name": "/home/dineshreddy/Desktop/winston-logger/logs/info-file.log.2022-10-30.1",
+            "hash": "1bb9416c5b17c053907caebca623c0857fb303552bd6e0d390b02debc5d8e167"
+        },
+        {
+            "date": 1667144082115,
+            "name": "/home/dineshreddy/Desktop/winston-logger/logs/info-file.log.2022-10-30.2",
+            "hash": "ad7b486ba82027594278fd504ba4a1a413750e74da4d2c94b6f64fe637b09cb3"
+        }
+    ],
+    "hashType": "sha256"
+}
